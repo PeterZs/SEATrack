@@ -1,4 +1,4 @@
-# [CVPR2026 Oral] :ocean: SEATrack: Simple, Efficient, and Adaptive Multimodal Tracker 
+# [CVPR 2026 Oral] :ocean: SEATrack: Simple, Efficient, and Adaptive Multimodal Tracker 
 Official implementation of [**SEATrack: Simple, Efficient, and Adaptive Multimodal Tracker**]().
 
 [Models & Raw Results](https://drive.google.com/drive/folders/1dDKtK11pX8rmP1pYvgpdLndNjX2hqjYQ?usp=sharing)
@@ -8,7 +8,7 @@ Official implementation of [**SEATrack: Simple, Efficient, and Adaptive Multimod
 
 ## News
 **[Apr 13, 2026]**
-- We release codes, models and raw results.
+- We release codes, models, and raw results.
 
 ## Introduction
 - :ocean: A simple unified visual multimodal tracking framework for RGB-T, RGB-D, and RGB-E tracking.
@@ -19,16 +19,15 @@ Official implementation of [**SEATrack: Simple, Efficient, and Adaptive Multimod
 
 - We expect SEATrack to inspire more attention to cross-modal alignment for future multimodal tracking research.
 
-<center><img width="90%" alt="" src="assets/Framework.png"/></center>
+<center><img width="80%" alt="" src="assets/Framework.png"/></center>
 
 ## Results
 ### Overall Performance
-<center><img width="90%" alt="" src="assets/Results.png"/></center>
-<center><img width="90%" alt="" src="assets/LasHeR.png"/></center>
+<center><img width="70%" alt="" src="assets/Results.png"/></center>
 
 ### Visualization
-<center><img width="90%" alt="" src="assets/Vis.png"/></center>
-<center><img width="90%" alt="" src="assets/Frame_Loss.png"/></center>
+<center><img width="70%" alt="" src="assets/Vis.png"/></center>
+<center><img width="70%" alt="" src="assets/Frame_Loss.png"/></center>
 
 ## Usage
 ### Installation
