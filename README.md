@@ -27,6 +27,7 @@ Official implementation of [**SEATrack: Simple, Efficient, and Adaptive Multimod
 ### Overall Performance
 <div align="center">
   <img width="70%" src="assets/Results.png"/>
+  <img width="40%" src="assets/LasHeR.png"/>
 </div>
 
 ### Visualization
