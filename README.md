@@ -107,7 +107,7 @@ Modify the <DATASET_PATH> and <SAVE_PATH> in```./RGBT_workspace/test_rgbt_mgpus.
 bash eval_rgbt.sh
 ```
 We refer you to [LasHeR Toolkit](https://github.com/BUGPLEASEOUT/LasHeR) for LasHeR evaluation, 
-and refer you to [MPR_MSR_Evaluation](https://sites.google.com/view/ahutracking001/) for RGBT234 evaluation.
+and refer you to [MPR_MSR_Evaluation](https://github.com/xuboyue1999/RGBT-Tracking/tree/main) for RGBT234 evaluation.
 
 
 #### For RGB-E benchmark
