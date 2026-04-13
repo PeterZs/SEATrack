@@ -200,10 +200,10 @@ If you find this work helpful, please consider citing:
 ---
 
 ## 🙏 Acknowledgment
-
-* Built upon [ViPT](https://github.com/jiawen-zhu/ViPT), which is an excellent work.
-* Thanks to [PyTracking](https://github.com/visionml/pytracking) library, which helps us to quickly implement our ideas.
-
+SEATrack uses code from a few open source repositories. Without the efforts of these folks (and their willingness to release their implementations), SEATrack would not be possible. We thank these authors for their efforts!
+* [ViPT](https://github.com/jiawen-zhu/ViPT)
+* [PyTracking](https://github.com/visionml/pytracking)
+* [LoRA](https://github.com/microsoft/LoRA)
 ---
 
 ## 📬 Contact
