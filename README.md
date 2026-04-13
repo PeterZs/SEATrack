@@ -27,7 +27,7 @@ Official implementation of [**SEATrack: Simple, Efficient, and Adaptive Multimod
 
 ### Visualization
 <center><img width="70%" alt="" src="assets/Vis.png"/></center>
-<center><img width="70%" alt="" src="assets/Frame_Loss.png"/></center>
+<center><img width="40%" alt="" src="assets/Frame_Loss.png"/></center>
 
 ## Usage
 ### Installation
