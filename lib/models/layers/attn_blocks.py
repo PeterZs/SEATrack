@@ -184,7 +184,7 @@ class CEBlock_AP(nn.Module):
         x[0] = x[0] + self.drop_path(xrgb_attn) 
         x[1] = x[1] + self.drop_path(xdte_attn)
 
-        # MMoE for cross template and search region fusion
+        # HMoE for cross template and search region fusion
         if self.layer in self.moe_layers:
             mix_z = self.attn_moe(torch.cat([x[0][:, :lens_t], x[1][:, :lens_t]], dim=1), mode = 'template')
             mix_x = self.attn_moe(torch.cat([x[0][:, lens_t:], x[1][:, lens_t:]], dim=1), mode = 'search')
@@ -203,7 +203,7 @@ class CEBlock_AP(nn.Module):
         x[0] = x[0] + self.drop_path(self.mlp(self.norm2(x[0]))) 
         x[1] = x[1] + self.drop_path(self.mlp(self.norm2(x[1]))) 
 
-        # MMoE for cross template and search region fusion
+        # HMoE for cross template and search region fusion
         if self.layer in self.moe_layers:
             mix_z = self.ffn_moe(torch.cat([x[0][:, :lens_t], x[1][:, :lens_t]], dim=1), mode = 'template')
             mix_x = self.ffn_moe(torch.cat([x[0][:, lens_t:], x[1][:, lens_t:]], dim=1), mode = 'search')
