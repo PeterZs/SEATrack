@@ -2,7 +2,7 @@
 # 🌊 [CVPR 2026 Oral] SEATrack: Simple, Efficient, and Adaptive Multimodal Tracker
 
 <p align="center">
-  📄 <a href="">Paper</a> &nbsp;|&nbsp;
+  📄 <a href="https://arxiv.org/abs/2604.12502">Paper</a> &nbsp;|&nbsp;
   📦 <b>Models & Results:</b>
   <a href="https://drive.google.com/drive/folders/1dDKtK11pX8rmP1pYvgpdLndNjX2hqjYQ?usp=sharing">Google Drive</a>
   &nbsp;/&nbsp;
@@ -195,6 +195,15 @@ Evaluation:
 If you find this work helpful, please consider citing:
 
 ```bibtex
+@misc{su2026seatracksimpleefficientadaptive,
+      title={SEATrack: Simple, Efficient, and Adaptive Multimodal Tracker}, 
+      author={Junbin Su and Ziteng Xue and Shihui Zhang and Kun Chen and Weiming Hu and Zhipeng Zhang},
+      year={2026},
+      eprint={2604.12502},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV},
+      url={https://arxiv.org/abs/2604.12502}, 
+}
 ```
 
 ---
