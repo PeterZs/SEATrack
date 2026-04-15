@@ -129,7 +129,7 @@ Modify checkpoint in:
 ```
 #### RGB-D (DepthTrack & VOT22-RGBD)
 
-Place datasets and provided `list.txt` into:
+Place datasets and the provided `list.txt` into:
 ```
 ./Depthtrack_workspace/sequences
 ./VOT22RGBD_workspace/sequences
