@@ -6,7 +6,7 @@
   📦 <b>Models & Results:</b>
   <a href="https://drive.google.com/drive/folders/1dDKtK11pX8rmP1pYvgpdLndNjX2hqjYQ?usp=sharing">Google Drive</a>
   &nbsp;/&nbsp;
-  <a href="https://pan.baidu.com/s/1QNFkLc0AXvQ8l7LkUYYcCg?pwd=r4s7">Baidu Drive</a>
+  <a href="https://pan.baidu.com/s/1QNFkLc0AXvQ8l7LkUYYcCg?pwd=r4s7">Baidu Drive</a>&nbsp;/&nbsp;
   <a href="https://pan.baidu.com/s/1QNFkLc0AXvQ8l7LkUYYcCg?pwd=r4s7">Hugging Face</a>
 </p>
 
