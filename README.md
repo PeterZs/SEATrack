@@ -13,7 +13,7 @@
 ---
 
 ## 🔥 News
-- **[May 1, 2026]** The models, raw results, and training logs are now available in Hugging Face 🤗.
+- **[May 1, 2026]** The models, raw results, and training logs are now available on Hugging Face 🤗.
 - **[Apr 13, 2026]** Code, models, and raw results are released.
 
 ---
