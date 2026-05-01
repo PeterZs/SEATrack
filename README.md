@@ -7,11 +7,13 @@
   <a href="https://drive.google.com/drive/folders/1dDKtK11pX8rmP1pYvgpdLndNjX2hqjYQ?usp=sharing">Google Drive</a>
   &nbsp;/&nbsp;
   <a href="https://pan.baidu.com/s/1QNFkLc0AXvQ8l7LkUYYcCg?pwd=r4s7">Baidu Drive</a>
+  <a href="https://pan.baidu.com/s/1QNFkLc0AXvQ8l7LkUYYcCg?pwd=r4s7">Hugging Face</a>
 </p>
 
 ---
 
 ## 🔥 News
+- **[May 1, 2026]** The models, raw results, and training logs are now available in Hugging Face 🤗.
 - **[Apr 13, 2026]** Code, models, and raw results are released.
 
 ---
